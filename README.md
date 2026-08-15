@@ -24,7 +24,7 @@ It also includes **live screen sharing using WebRTC**, allowing a user to share 
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React, Vite, CSS
+**Frontend:** React, Vite, CSS, TailwindCSS
 **Backend:** Node.js, Express.js
 **Database:** MongoDB
 **Real-Time:** Socket.IO
