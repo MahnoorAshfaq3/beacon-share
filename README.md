@@ -1,6 +1,11 @@
 # Beacon Share — Real-Time File, Text & Screen Sharing
 
 Beacon Share is a full-stack real-time sharing web application inspired by AirForShare. It allows users to create or join a shared session using a short code and instantly exchange **text, links, and files** with other participants.
+One person creates a session and gets a short code; everyone else enters that
+code and instantly sees whatever the host shares — including their live screen.
+This is an original project (name, visual identity, and code) inspired by
+the general idea of tools like AirForShare. No branding, logos, or code from
+any existing product were copied.
 
 It also includes **live screen sharing using WebRTC**, allowing a user to share their screen with multiple participants directly through the browser.
 
@@ -30,15 +35,7 @@ It also includes **live screen sharing using WebRTC**, allowing a user to share 
 
 The project was built to provide a simple way for users to share content and screens in real time without requiring traditional file-sharing or screen-sharing software.
 #
-Beacon is a real-time text, file, and link sharing app for a classroom (or
-any small group), with a live WebRTC screen-sharing feature built in. One
-person creates a session and gets a short code; everyone else enters that
-code and instantly sees whatever the host shares — including their live
-screen.
 
-This is an original project (name, visual identity, and code) inspired by
-the general idea of tools like AirForShare. No branding, logos, or code from
-any existing product were copied.
 
 ---
 
