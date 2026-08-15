@@ -26,10 +26,11 @@ It also includes **live screen sharing using WebRTC**, allowing a user to share 
 
 **Frontend:** React, Vite, CSS, TailwindCSS
 **Backend:** Node.js, Express.js
-**Database:** MongoDB
+**Database:** MongoDB Atlas
 **Real-Time:** Socket.IO
 **Screen Sharing:** WebRTC
 **File Uploads:** Multer
+**Deployment:** Frontend → Netlify, Backend → Render
 
 ### 🎯 Purpose
 
