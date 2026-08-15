@@ -9,6 +9,8 @@ any existing product were copied.
 
 It also includes **live screen sharing using WebRTC**, allowing a user to share their screen with multiple participants directly through the browser.
 
+## Live Demo
+**Frontend:** https://beacon-share.netlify.app/
 ### ✨ Features
 
 * 📤 Real-time text sharing
