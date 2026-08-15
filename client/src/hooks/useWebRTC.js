@@ -9,7 +9,14 @@ import { useSessionContext } from "../context/SessionContext";
 //   { urls: "turn:your-turn-host:3478", username: "...", credential: "..." }
 // Never hard-code TURN credentials in client source.
 const ICE_SERVERS = {
-  iceServers: [{ urls: "stun:stun.l.google.com:19302" }],
+  iceServers: [{ urls: "stun:stun.l.google.com:19302",
+},
+ {
+      urls: import.meta.env.VITE_TURN_URL,
+      username: import.meta.env.VITE_TURN_USERNAME,
+      credential: import.meta.env.VITE_TURN_CREDENTIAL,
+    },
+  ],
 };
 
 // Mesh WebRTC: the teacher opens one RTCPeerConnection per connected
